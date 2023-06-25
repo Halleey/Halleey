@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Halleey
-- 👀 I’m interested in learn
+- 👀 I’m interested in aprimorar meus conhecimentos
 - 🌱 I’m currently learning Java
 - 📫 How to reach me (gmail)
 
