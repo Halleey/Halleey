@@ -1,7 +1,7 @@
 ## Sobre mim
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Cursando técnico em ADS na Etec.
-- 🌱 Aprendendo mais sobre Spring security/ react.ts
+- 🎓 Formado em técnico ADS pela etec .
+- 🌱 Aprendendo mais sobre interpretadore.
 
 ## Minhas Skills
 **linguagens e aplicações**
