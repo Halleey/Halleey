@@ -1,7 +1,7 @@
 ## Sobre mim
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em técnico ADS pela etec .
-- 🌱 Aprendendo mais sobre interpretadore.
+- 🌱 Aprendendo mais sobre interpretadores.
 
 ## Minhas Skills
 **linguagens e aplicações**
