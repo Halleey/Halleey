@@ -31,37 +31,6 @@
 📌 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 📌 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-```html
-<div id="chart"></div>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-    const ctx = document.createElement('canvas');
-    document.getElementById('chart').appendChild(ctx);
-
-    new Chart(ctx, {
-        type: 'doughnut',
-        data: {
-            labels: ['Java', 'Spring Boot', 'React', 'LLVM', 'Banco de Dados', 'DevOps e Ferramentas'],
-            datasets: [{
-                data: [30, 20, 10, 15, 15, 10],
-                backgroundColor: ['#007396', '#6DB33F', '#61DAFB', '#262D3A', '#336791', '#F05032'],
-            }]
-        },
-        options: {
-            responsive: true,
-            animation: {
-                animateScale: true,
-                animateRotate: true
-            }
-        }
-    });
-</script>
-```
-
----
 💡 Sempre aprendendo e explorando novas tecnologias! 🚀
 
 
