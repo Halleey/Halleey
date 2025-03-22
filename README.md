@@ -15,7 +15,6 @@
 📌 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)  
 📌 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 📌 ![LLVM](https://img.shields.io/badge/-LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)  
-📌 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
 
 ### **Frameworks e Bibliotecas**
 📌 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
