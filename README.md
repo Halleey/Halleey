@@ -2,8 +2,6 @@
 
 👨‍💻 **Desenvolvedor Backend** apaixonado por **tecnologia**, **sistemas distribuídos** e **linguagens de programação**.  
 🎓 **Formado em Técnico em Análise e Desenvolvimento de Sistemas** pela **ETEC**.  
-🔍 Atualmente explorando o mundo dos **interpretadores e compiladores**.  
-🚀 No momento, estou **desenvolvendo minha própria linguagem de programação**, combinando **Java** e **LLVM** para análise e geração de código, com foco em otimização e portabilidade.  
 
 **Minhas paixões** incluem automação de processos, desenvolvimento de sistemas escaláveis e otimização de performance, buscando sempre aprender novas tecnologias e técnicas para evoluir como profissional.
 
