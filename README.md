@@ -35,9 +35,6 @@ Minhas paixões incluem **automação de processos**, **desenvolvimento de siste
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 📊 Linguagens Mais Usadas
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halleey&layout=compact&theme=default)
 
 ---
