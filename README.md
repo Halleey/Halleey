@@ -63,7 +63,6 @@ Tenho interesse profundo em **sistemas escaláveis**, **otimização de performa
 
 * Implementação de **AST** personalizada.
 * Parsing de expressões, variáveis, funções e listas dinâmicas.
-* Suporte a **controle de fluxo** (if/while).
 * Backend em **LLVM IR** para geração de código de baixo nível.
 * Runtime em C para manipulação de listas, valores dinâmicos e prints.
 
