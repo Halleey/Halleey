@@ -1,13 +1,13 @@
-## 🌟 Sobre Mim
-
 👨‍💻 Sou um **Desenvolvedor Backend** apaixonado por **tecnologia**, **sistemas distribuídos** e **linguagens de programação**.
 🎓 Formado em **Técnico em Análise e Desenvolvimento de Sistemas** pela **ETEC**.
 
-Atualmente, estou focado em **compiladores**, **AST**, **parsing** e **geração de código LLVM**, desenvolvendo minha própria linguagem chamada **Zard**. 
+Atualmente, estou focado em **compiladores**, **AST**, **parsing** e **geração de código LLVM**, desenvolvendo minha própria linguagem chamada **Zard**. 🚀
 
 Tenho interesse profundo em **sistemas escaláveis**, **otimização de performance** e **automação de processos**, sempre buscando aprender novas tecnologias e elevar o nível dos meus projetos.
 
 ---
+
+## 🚀 Skills Técnicas
 
 ### 🧠 Linguagens de Programação
 
@@ -15,14 +15,13 @@ Tenho interesse profundo em **sistemas escaláveis**, **otimização de performa
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![LLVM](https://img.shields.io/badge/-LLVM-262D3A?style=for-the-badge\&logo=llvm\&logoColor=white)
-![Compilers](https://img.shields.io/badge/-Compilers-800080?style=for-the-badge\&logo=googlescholar\&logoColor=white)
 
 ### ⚙️ Frameworks & Bibliotecas
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
 
 ### 🗃️ Bancos de Dados
 
@@ -44,14 +43,36 @@ Tenho interesse profundo em **sistemas escaláveis**, **otimização de performa
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
+---
+
+## 📚 Áreas de Estudo
+
+![Compiladores](https://img.shields.io/badge/-Compiladores-800080?style=for-the-badge\&logo=googlescholar\&logoColor=white)
+![AST](https://img.shields.io/badge/-AST-FF8C00?style=for-the-badge\&logo=codefactor\&logoColor=white)
+![Parsing](https://img.shields.io/badge/-Parsing-4682B4?style=for-the-badge\&logo=hackaday\&logoColor=white)
+![LLVM](https://img.shields.io/badge/-LLVM%20Backend-444444?style=for-the-badge\&logo=llvm\&logoColor=white)
+
+---
+
+## 🚧 Projetos em Andamento
+
+### 🔹 Linguagem **Zard**
+
+![Zard](https://img.shields.io/badge/-Zard%20Lang-FF4500?style=for-the-badge\&logo=fire\&logoColor=white)
+
+* Implementação de **AST** personalizada.
+* Parsing de expressões, variáveis, funções e listas dinâmicas.
+* Suporte a **controle de fluxo** (if/while).
+* Backend em **LLVM IR** para geração de código de baixo nível.
+* Runtime em C para manipulação de listas, valores dinâmicos e prints.
+
+---
 
 ## 📊 Estatísticas & Atividades
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halleey\&layout=compact\&theme=default)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Halleey\&show_icons=true\&theme=default)
-![Streak](https://streak-stats.demolab.com?user=Halleey\&theme=default\&hide_border=false)
 
 ---
 
