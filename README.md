@@ -1,5 +1,5 @@
 👨‍💻 **Compiler and Low-Level Systems Enthusiast** passionate about **technology** and **programming languages**.
-🎓 Graduated in **Systems Analysis and Development** from **ETEC**.
+🎓 Completed a Technical Course in **Systems Analysis and Development** at **ETEC**
 
 ---
 
