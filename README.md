@@ -87,8 +87,6 @@ I’m a passionate **software engineer** focused on **compilers**, **AST**, **pa
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halleey\&layout=compact\&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Halleey\&show_icons=true\&theme=radical)
-
 </div>
 
 ---
