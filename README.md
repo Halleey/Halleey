@@ -16,7 +16,6 @@ Sou um entusiasta de sistemas de baixo nível e linguagens de programação. Atu
 
 *  Formado em **Análise e Desenvolvimento de Sistemas** (ETEC).
 *  Foco em **Compiladores, AST, Parsing e Geração de Código**.
-*  Construindo o futuro da performance com LLVM IR.
 
 ---
 
